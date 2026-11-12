@@ -4,6 +4,9 @@
 This is a solver that simplifies a given Boolean algebra expression through recursive rule-based simplification.
 It applies Boolean algebra theorems, factorisation, and verification to achieve minimal form of the expression.
 
+<img width="400" height="399" alt="Boolean Algebra Solver Demo" src="https://github.com/user-attachments/assets/81e9afaa-2b12-4475-a93a-eecba7d7595f" />
+
+
 ## Features
 - Input validation
 - Tkinter GUI
